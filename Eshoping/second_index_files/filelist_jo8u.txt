@@ -1,0 +1,14 @@
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\wrapper_bg.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\wrapper_simple_bg.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\buttonhot_bg.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\menu_bg.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\menuitemhot_bg.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\menu_bg1.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\ebab_mbmcp.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\ebab_mbmcp_d.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\ebab_mbmcp_c.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\ebab_mbmcp_c2.png
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\mbjsmbmcp.js
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\mbcsmbmcp.css
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index.htm
+C:\Users\sudipta gayen\Documents\Visual Studio 2010\WebSites\online shoping2\online shoping2\second_index_files\filelist_jo8u.txt
